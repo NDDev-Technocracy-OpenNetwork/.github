@@ -9,3 +9,5 @@ Our main open-source work is
 our corporate system built in the open and shared with the community.
 
 [Visit NDDev](https://nddev.ai/opennetwork)
+
+[Contact](mailto:danil@nddev.ai)
